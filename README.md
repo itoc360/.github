@@ -121,6 +121,17 @@ AI-powered grouping · Root cause context · Automatic assignment · Full timeli
 
 ---
 
+## Get Started
+
+| | |
+|---|---|
+| **Free Trial** | [Try ITOC360 with your real alerts — no credit card](https://itoc360.com) |
+| **Pricing** | [View plans & pricing](https://www.itoc360.com/pricing/) |
+| **Book a Demo** | [Schedule a 30-minute live walkthrough](https://www.itoc360.com/contact-us/) |
+| **Documentation** | [docs.itoc360.com](https://docs.itoc360.com) |
+| **Integrations** | [itoc360.com/integrations](https://itoc360.com/integrations) |
+| **Support** | [support@itoc360.com](mailto:support@itoc360.com) |
+
 ## Quick Start
 
 Send your first alert in under 60 seconds:
@@ -135,3 +146,4 @@ curl -X POST https://api.itoc360.com/v1/alerts \
     "source": "custom",
     "description": "CPU usage at 98% for 5 minutes"
   }'
+

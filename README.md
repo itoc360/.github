@@ -75,27 +75,49 @@ AI-powered grouping · Root cause context · Automatic assignment · Full timeli
 ## Integrations
 
 ### Monitoring & Observability
-Prometheus · Grafana · Grafana Mimir · Zabbix · PRTG Network Monitor · Nagios · SolarWinds Orion · Instana · SigNoz · AppDynamics
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![PRTG](https://img.shields.io/badge/PRTG-00A651?style=for-the-badge&logoColor=white)
+![SolarWinds](https://img.shields.io/badge/SolarWinds-F3742F?style=for-the-badge&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-00599C?style=for-the-badge&logoColor=white)
+![SigNoz](https://img.shields.io/badge/SigNoz-F55050?style=for-the-badge&logoColor=white)
+![AppDynamics](https://img.shields.io/badge/AppDynamics-6DB33F?style=for-the-badge&logoColor=white)
 
 ### APM & Error Tracking
-New Relic · Datadog · Dynatrace · Rollbar · Elastic / Kibana
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Rollbar](https://img.shields.io/badge/Rollbar-FF3B30?style=for-the-badge&logoColor=white)
 
 ### Cloud & Infrastructure
-Amazon CloudWatch · AWS Budgets · Google Cloud Monitoring · Google Security Command Center · Azure Monitor · Azure Activity Logs · Microsoft Sentinel · Terraform Cloud
+![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### ChatOps & Collaboration
-Slack · Microsoft Teams · Statuspage.io
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Statuspage](https://img.shields.io/badge/Statuspage-172B4D?style=for-the-badge&logoColor=white)
 
 ### Security
-Amazon GuardDuty · CrowdStrike
+![Amazon GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E50027?style=for-the-badge&logoColor=white)
 
 ### CI/CD & Developer Tools
-GitHub · GitLab · Jenkins · n8n
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Ticketing & ITSM
-Jira · Linear
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
 
-→ **[View all 50+ integrations with setup guides](https://itoc360.com/integrations/)**
+**[View all 50+ integrations with setup guides →](https://itoc360.com/integrations/)**
 
 ---
 

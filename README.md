@@ -1,5 +1,5 @@
 <div align="center">
-  
+  <img src="https://raw.githubusercontent.com/itoc360/.github/main/profile/logo.svg" alt="ITOC360" width="100"/>
   <h1>ITOC360</h1>
   <p><strong>AI-First Incident Orchestration for SRE & DevOps Teams</strong></p>
   <p>
